@@ -7,8 +7,8 @@ As part of the AI training at <a href="https://github.com/becodeorg"><strong>BeC
 **Steps of the project:**
 - Pre-process the data that was scrapped in the last project 
 - Build a a machine learning model
-- Create a Flask API that can handle a machine learning model
-- Deploy an API to Heroku
+- Create a **Flask API** that can handle a machine learning model
+- Deploy an API to **Heroku**
 - Present it to the client
 
 **Time allocated for the project:**
@@ -21,9 +21,9 @@ As part of the AI training at <a href="https://github.com/becodeorg"><strong>BeC
 * Using **Pickle** library to save the model
 
 **Libraries used:**
-* Pandas for data analysis
-* Numpy for data analysis
-* Sklearn for training and building the model 
+* **Pandas** for data analysis
+* **Numpy** for data analysis
+* **Sklearn** for training and building the model 
 * **Pickle** library to save the model
 
 ## Application features 
@@ -34,3 +34,7 @@ Routes
 
 ## API in use: 
 **https://house-predict-becode.herokuapp.com/**
+
+## Limiations:
+* The accuracy of the model can be improved by implementing a feature importance, adding more features such as location and adding more data
+* The interface of the app can be improved by polishing the HTML pages
