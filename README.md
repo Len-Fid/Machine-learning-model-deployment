@@ -35,6 +35,6 @@ Routes
 ## API in use: 
 **https://house-predict-becode.herokuapp.com/**
 
-## Limiations:
+## Limitaions:
 * The accuracy of the model can be improved by implementing a feature importance, adding more features such as location and adding more data
 * The interface of the app can be improved by polishing the HTML pages
